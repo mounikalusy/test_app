@@ -29,11 +29,11 @@
                 <sonar.host.url>
                   http://myserver:9099
                 </sonar.host.url>
-                <sonar.token>
+                <sonar.login>
                      sqp_24dada8d5f8d6a84a523b51c13965d0f18a1fc85
-                </sonar.token>
-                 <sonar.login>admin</sonar.login>
-                 <sonar.password>Admin@123</sonar.password>
+                </sonar.login>
+                 < !-- <sonar.login>admin</sonar.login>
+                 <sonar.password>Admin@123</sonar.password> -->
             </properties>
         </profile>
      </profiles>
