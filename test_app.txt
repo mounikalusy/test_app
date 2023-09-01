@@ -1,0 +1,7 @@
+sqp_24dada8d5f8d6a84a523b51c13965d0f18a1fc85
+
+
+
+
+mvn clean verify sonar:sonar  -Dsonar.projectKey=test_app -Dsonar.projectName='test_app' -Dsonar.host.url=http://localhost:9099 -Dsonar.token=sqp_24dada8d5f8d6a84a523b51c13965d0f18a1fc85
+```

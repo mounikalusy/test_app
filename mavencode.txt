@@ -1,0 +1,5 @@
+sqp_d1f923a823d16a711e0a79017c4213113d90e8a9
+
+
+
+mvn clean  install verify sonar:sonar  -Dsonar.projectKey=Demo_Class -Dsonar.projectName='Demo_Class' -Dsonar.host.url=http://localhost:9099 -Dsonar.token=sqp_d1f923a823d16a711e0a79017c4213113d90e8a9

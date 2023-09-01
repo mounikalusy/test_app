@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "WELLCOME TO CODEGNAN IT SOLUTIONS!" );
+        System.out.println( "hello diet!" );
     }
 }
